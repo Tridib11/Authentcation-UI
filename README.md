@@ -67,15 +67,15 @@ The app includes a built-in notification system to inform users about the succes
 
 ## Screens
 - **Sign In**  
-  ![Sign In Page](https://via.placeholder.com/400x300?text=Sign+In)
+  
   ![alt text](image.png)
 
 - **Sign Up**  
-  ![Sign Up Page](https://via.placeholder.com/400x300?text=Sign+Up)
+  
   ![alt text](image-1.png)
 
 - **Profile**  
-  ![Profile Page](https://via.placeholder.com/400x300?text=Profile)
+  
   ![alt text](image-2.png)
 
 ## License
